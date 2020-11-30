@@ -5,9 +5,10 @@
 
 <h3>1. Andela Kenya Limited (September 2018-October 2019)</h3>
 At Andela Kenya, I got a chance to work at the following projects:
-
-•	Converge – Converge is a resource booking software which is used internally within the company. I oversaw integrating Google calendar API to the booking of rooms so that one can book a meeting room for a specific period and it will be reflected on the company calendar. The project is done in Python and GraphQL for backend and React-GraphQl for the frontend.
-•	Push Notification Microservice. This is a small microservice which sends notification to the converge application above anytime there is a change in the google calendar. The converge app the synchronizes itself to Google Calendar API.
+<ul>
+<li><p>Converge – Converge is a resource booking software which is used internally within the company. I oversaw integrating Google calendar API to the booking of rooms so that one can book a meeting room for a specific period and it will be reflected on the company calendar. The project is done in Python and GraphQL for backend and React-GraphQl for the frontend.</p></li>
+<li><p>Push Notification Microservice. This is a small microservice which sends notification to the converge application above anytime there is a change in the google calendar. The converge app the synchronizes itself to Google Calendar API.</p></li>
+ </ul>
 
 
 
