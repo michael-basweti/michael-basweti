@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, my name is Michael Alex Basweti</h1>
+<h1 align="center">Hi there 👋. My name is Michael Alex Basweti</h1>
 
 <h2 align="center">Exeperience</h2>
 <p><sm>I have been privileged to work for some amazing companies and interact with intelligent and awesome software engineers worldwide. Below are the companies I have worked and some of the projects I have done:</sm></p>
