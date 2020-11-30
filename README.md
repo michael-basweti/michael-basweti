@@ -23,7 +23,7 @@
 
 <h2 align="center">Skills</h2>
 <ul>
- <li><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>Python</li>
+ <li><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40" height="40"/>Python</li>
  <li>Django</li>
  <li>DRF</li>
  <li>Flask</li>
