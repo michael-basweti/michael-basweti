@@ -23,8 +23,8 @@
 
 <h2 align="center">Skills</h2>
 <p><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="20" height="20"/> Python ||
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="20" height="20"/> Django ||
-<img src="https://e7.pngegg.com/pngimages/159/366/png-clipart-django-python-computer-icons-logo-python-text-label.png" width="20" height="20"/> DRF ||
+<img src="https://e7.pngegg.com/pngimages/159/366/png-clipart-django-python-computer-icons-logo-python-text-label.png" width="20" height="20"/> Django ||
+<img src="https://miro.medium.com/max/600/1*N5Iep1wJY1iXgMzpHxzE8w.png" width="20" height="20"/> DRF ||
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flask-512.png" width="20" height="20"/> Flask ||
 <img src="https://www.devexhub.com/wp-content/uploads/2019/12/javascript-icon-png-23.png" width="20" height="20"/> Javascript ||
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="20" height="20"/> React ||
@@ -32,6 +32,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" width="20" height="20"/> jQuery ||
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" width="20" height="20"/> Android ||
 <img src="https://img.icons8.com/color/452/amazon-web-services.png" width="20" height="20"/> AWS</p>
+
 
 
 <!--
