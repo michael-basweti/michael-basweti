@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Michael Alex Basweti
+<h1 align="center">Hi there 👋, my name is Michael Alex Basweti</h1>
 
 <!--
 **michael-basweti/michael-basweti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
