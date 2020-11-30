@@ -22,16 +22,14 @@
 <p><sm>The project is still in development phase, we're developing an API using python(DRF) and frontend using React. There are M-Pesa Gateway integrations and also SMS integrations with Africa's Talking</sm></p>
 
 <h2 align="center">Skills</h2>
-<ul>
- <li><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40" height="40"/>Python</li>
- <li>Django</li>
- <li>DRF</li>
- <li>Flask</li>
- <li>Javascript</li>
- <li>React</li>
- <li>React Native</li>
- <li>AWS</li>
-</ul>
+<p><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="20" height="20"/>Python ||
+Django ||
+DRF ||
+Flask ||
+Javascript ||
+React ||
+React Native ||
+AWS</p>
 
 
 <!--
