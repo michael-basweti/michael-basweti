@@ -12,7 +12,27 @@ At Andela Kenya, I got a chance to work at the following projects:
 
 
 
-<h3>1. Nation Media Group (October 2019-Present)</h3>
+<h3>2. Nation Media Group (October 2019-Present)</h3>
+<h4>a) Distributor Management System</h4>
+<li><p>Developed Distributor Management System using python Django and JavaScript/jQuery. </p></li>
+<li><p>Wrote scripts to connect the system to the in-house SAP system Performed software demonstrations for potential clients, highlighting strengths of the DMS. </p></li>
+<li><p>Generated highly detailed reports through the system Configured and hosted the system on AWS. </p></li>
+
+<h4>b) Courier System</h4>
+The project is still in development phase, we're developing an API using python(DRF) and frontend using React. There are M-Pesa Gateway integrations and also SMS integrations with Africa's Talking
+
+<h2 align="center">Skills</h2>
+<ul>
+ <li>Python</li>
+ <li>Django</li>
+ <li>DRF</li>
+ <li>Flask</li>
+ <li>Javascript</li>
+ <li>React</li>
+ <li>React Native</li>
+ <li>AWS</li>
+</ul>
+
 
 <!--
 **michael-basweti/michael-basweti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
