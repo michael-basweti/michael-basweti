@@ -12,7 +12,7 @@
 
 
 
-<h3>2. Nation Media Group (October 2019-Present)</h3>
+<h3>2. Nation Media Group (October 2019-Present) <img src="https://www.nationmedia.com/wp-content/themes/nmg/dist/img/nmg-logo-blue.svg" width="20" height="20"/></h3>
 <h4>a) Distributor Management System</h4>
 <p><sm>Developed Distributor Management System using python Django and JavaScript/jQuery. </sm></p>
 <p><sm>Wrote scripts to connect the system to the in-house SAP system Performed software demonstrations for potential clients, highlighting strengths of the DMS. </sm></p>
