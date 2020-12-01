@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋. My name is Michael Alex Basweti</h1>
+<h1 align="center">Hi there 👋. My name is Michael Alex Basweti 😊</h1>
 
 <h2 align="center">Exeperience</h2>
-<p><sm>I have been privileged to work for some amazing companies and interact with intelligent and awesome software engineers worldwide. Below are the companies I have worked and some of the projects I have done:</sm></p>
+<p><sm>I have been privileged to work for some amazing companies and interact with intelligent and awesome software engineers worldwide💪. Below are the companies I have worked and some of the projects I have done:</sm></p>
 
 <h3>1. Andela Kenya Limited (September 2018-October 2019) <img src="https://pbs.twimg.com/profile_images/1148217687442624513/W7czOPZB_400x400.png" width="30" height="30"/></h3>
 <p><sm>At Andela Kenya, I got a chance to work at the following projects:</sm></p>
