@@ -14,9 +14,7 @@
 
 <h3>2. Nation Media Group (October 2019-Present) <img src="https://www.nationmedia.com/wp-content/themes/nmg/dist/img/nmg-logo-blue.svg" width="30" height="30"/></h3>
 <h4>a) Distributor Management System</h4>
-<p><sm>Developed Distributor Management System using python Django and JavaScript/jQuery. </sm></p>
-<p><sm>Wrote scripts to connect the system to the in-house SAP system Performed software demonstrations for potential clients, highlighting strengths of the DMS. </sm></p>
-<p><sm>Generated highly detailed reports through the system Configured and hosted the system on AWS. </sm></p>
+<p><sm>Developed Distributor Management System using python Django and JavaScript/jQuery. Wrote scripts to connect the system to the in-house SAP system Performed software demonstrations for potential clients, highlighting strengths of the DMS. The system is hosted in AWS</sm></p>
 
 <h4>b) Courier System</h4>
 <p><sm>The project is still in development phase, we're developing an API using python(DRF) and frontend using React. There are M-Pesa Gateway integrations and also SMS integrations with Africa's Talking</sm></p>
