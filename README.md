@@ -25,7 +25,7 @@
 <img src="https://miro.medium.com/max/700/1*kR89JbQQK9aAkNVyxE63pg.png" width="100" height="50"/> DRF ||
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flask-512.png" width="50" height="50"/> Flask ||
 <img src="https://www.devexhub.com/wp-content/uploads/2019/12/javascript-icon-png-23.png" width="50" height="50"/> Javascript ||
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="50" height="50"/> React ||
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="70" height="50"/> React ||
 <img src="https://www.nicepng.com/png/detail/222-2224770_react-native-icon-png.png" width="50" height="50"/> React Native ||
 <img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" width="50" height="50"/> jQuery ||
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" width="50" height="50"/> Android ||
