@@ -20,7 +20,7 @@
 <p><sm>The project is still in development phase, we're developing an API using python(DRF) and frontend using React. There are M-Pesa Gateway integrations and also SMS integrations with Africa's Talking</sm></p>
 
 <h2 align="center">Skills</h2>
-<p><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="20" height="20"/> Python ||
+<p><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50" height="50"/> Python ||
 <img src="https://e7.pngegg.com/pngimages/159/366/png-clipart-django-python-computer-icons-logo-python-text-label.png" width="20" height="20"/> Django ||
 <img src="https://miro.medium.com/max/600/1*N5Iep1wJY1iXgMzpHxzE8w.png" width="20" height="20"/> DRF ||
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flask-512.png" width="20" height="20"/> Flask ||
