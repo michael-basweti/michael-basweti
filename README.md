@@ -23,7 +23,7 @@
 <p><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50" height="50"/> Python ||
 <img src="https://e7.pngegg.com/pngimages/159/366/png-clipart-django-python-computer-icons-logo-python-text-label.png" width="100" height="50"/> Django ||
 <img src="https://miro.medium.com/max/700/1*kR89JbQQK9aAkNVyxE63pg.png" width="100" height="50"/> DRF ||
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flask-512.png" width="50" height="50"/> Flask ||
+<img src="https://miro.medium.com/max/1079/1*nvtdCw77Al6LgV8wt_ma6Q.png" width="100" height="50"/> Flask ||
 <img src="https://www.devexhub.com/wp-content/uploads/2019/12/javascript-icon-png-23.png" width="50" height="50"/> Javascript ||
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="70" height="50"/> React ||
 <img src="https://www.nicepng.com/png/detail/222-2224770_react-native-icon-png.png" width="50" height="50"/> React Native ||
