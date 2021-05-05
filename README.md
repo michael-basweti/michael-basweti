@@ -9,20 +9,49 @@
 </ol>
 
 <h2 align="center">Skills</h2>
-<ul>
-<li>Python</li>
-<li>Django</li>
-<li>DRF</li>
-<li>Flask</li>
-<li>Javascript</li>
-<li>React</li>
-<li>React Native</li>
-<li>jQuery</li>
-<li>Android</li>
-<li>AWS</p></li>
- </ul>
-
-
+<table>
+    <thead>
+        <tr>
+            <th>Languages</th>
+            <th>Frameworks</th>
+            <th>DevOps</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan='3'>Python</td>
+            <td>Django</td>
+            <td>AWS</td>
+        </tr>
+        <tr>
+            <td>DRF</td>
+            <td>CircleCi</td>
+        </tr>
+        <tr>
+            <td>Flask</td>
+        </tr>
+        <tr>
+            <td rowspan='2'>Javascript</td>
+            <td>React</td>
+        </tr>
+        <tr>
+            <td>React Native</td>
+        </tr>
+        <tr>
+            <td rowspan='3'>Java</td>
+        </tr>
+        <tr>
+            <td>Springboot</td>
+        </tr>
+        <tr>
+            <td>Android Development</td>
+        </tr>
+        <tr>
+            <td>PHP</td>
+        </tr </tbody> </table>
+ 
+ 
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-basweti&count_private=true&show_icons=true&theme=radical)
 <!--
 **michael-basweti/michael-basweti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
